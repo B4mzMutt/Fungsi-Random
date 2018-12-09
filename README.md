@@ -1,0 +1,2 @@
+# Fungsi-Random
+Program C++
